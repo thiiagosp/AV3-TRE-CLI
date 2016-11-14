@@ -20,6 +20,6 @@ _possibly the npm install -g will need be executed with sudo privileges_
 _the server was setup to live reload with watch task of gulp_
 
 __Interesting Observations__
-1. we will use the es6 syntax, that will be transpiled to es2015 using babel
-2. we are using angularjs 1.5.8 to simplify and make easy to write the project
-3. all code will be write using english language, just to keep our project standardized
+* we will use the es6 syntax, that will be transpiled to es2015 using babel
+* we are using angularjs 1.5.8 to simplify and make easy to write the project
+* all code will be write using english language, just to keep our project standardized
