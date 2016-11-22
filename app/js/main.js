@@ -1,1 +1,1 @@
-console.log("aqui que se faz a mágica");
+console.log("aqui que se faz a mágica"); 
